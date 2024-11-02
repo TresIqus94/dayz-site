@@ -66,8 +66,8 @@ export const config: Config = {
           title: "Contact Us",
           description: "If you have any questions or concerns, please don't hesitate to contact us through the following channels.",
           links: {
-            'Discord': "https://discord.gg/skvad",
-            'Email': "mailto:info@skvad.eu",
+            'Discord': "",
+            'Email': "mailto:",
           },
         },
       },
@@ -85,7 +85,7 @@ export const config: Config = {
     },
     cta: {
       label: "Join us today!",
-      href: "https://discord.gg/mirasaki",
+      href: "",
     },
   },
   servers: [
