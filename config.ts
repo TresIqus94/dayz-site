@@ -110,7 +110,7 @@ export const config: Config = {
     trademarkNotice: "The DayZ logo is a registered trademark of Bohemia Interactive a.s. Blackjack & Hookers is not affiliated with Bohemia Interactive a.s. or DayZ. All other trademarks are the property of their respective owners.",
     brandingName: "Blackjack & Hookers",
     brandingURL: '/',
-    initialCopyrightYear: 2021,
+    initialCopyrightYear: 2024,
     copyrightBrandName: "Blackjack & Hookers",
     copyrightBrandUrl: '/',
     links: [
