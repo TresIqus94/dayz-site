@@ -93,7 +93,7 @@ export const config: Config = {
       name: 'Blackjack & Hookers',
       ipv4: '74.91.115.72',
       gamePort: 2302,
-      steamQueryPort: 27015,
+      steamQueryPort: 27016,
       cftoolsApiId: '638ca64a-e4ec-40b1-aef3-3be41a301b00',
     },
   ],
