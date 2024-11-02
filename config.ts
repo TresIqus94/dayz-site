@@ -26,7 +26,7 @@ export const config: Config = {
       sections: {
         network: {
           title: "Server Network",
-          description: "Our DayZ servers are hosted in Europe and are maintained by our dedicated team of developers and system administrators.",
+          description: "Our DayZ servers are hosted in The US and are maintained by our dedicated team of developers and system administrators.",
         },
         about: {
           title: "About Us",
