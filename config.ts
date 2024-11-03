@@ -94,7 +94,7 @@ export const config: Config = {
       ipv4: '74.91.115.72',
       gamePort: 2302,
       steamQueryPort: 27016,
-      cftoolsApiId: '638ca64a-e4ec-40b1-aef3-3be41a301b00',
+      cftoolsApiId: 'd_vpl3wnavWWRrdpypKoPbcZJT2SvCM8DGlRnglZXUc=',
     },
   ],
   cftools: {
